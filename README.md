@@ -11,23 +11,28 @@ This project presents an interactive Financial Complaints Dashboard designed to 
 SQL (Data extraction & transformation)
 Power BI (Data visualization & dashboard creation)
 Excel (Data cleaning & preprocessing)
-📈 Key Features
-📌 Total complaints tracking and KPI metrics
-⏱️ Timely response analysis (98%+)
-📊 Complaint distribution by issue, product, and state
-📅 Monthly trend analysis for complaints
-🗺️ Geographic visualization of complaints
-⚖️ Dispute rate and resolution insights
-📷 Dashboard Preview
-![Financial Complaints Dashboard](./your-image-file-name.png)
 
-👉 (Upload your image in repo and replace file name if needed)
+📈 Key Features
+
+📌 Total complaints tracking and KPI metrics
+
+⏱️ Timely response analysis (98%+)
+
+📊 Complaint distribution by issue, product, and state
+
+📅 Monthly trend analysis for complaints
+
+🗺️ Geographic visualization of complaints
+
+⚖️ Dispute rate and resolution insights
+
 
 🚀 Insights Gained
 Majority of complaints are related to deposits and account management
 High timely response rate indicates efficient handling
 Certain states show higher complaint concentration
 Mortgage and credit card issues dominate product categories
+
 💼 Use Case
 
 This dashboard can be used by financial institutions to monitor customer complaints, improve service quality, and enhance operational efficiency.
